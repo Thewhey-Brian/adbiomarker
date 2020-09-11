@@ -1,0 +1,3 @@
+NACC UDS data dictionary can be found at 
+https://www.alz.washington.edu/WEB/forms_uds.html
+--> Data Element Dictionary --> Initial visit or Follow-up visit

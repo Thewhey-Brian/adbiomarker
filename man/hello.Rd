@@ -12,3 +12,6 @@ hello()
 \description{
 Title
 }
+\examples{
+hello()
+}

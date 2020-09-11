@@ -1,0 +1,78 @@
+1. ID
+All IDs are fine, but they may not be available for all files. One solution is to create a rosettastone file for different ID and merge files based on the available ID.
+JHUAnonID may be a good place to start. Otherwise, use the six letter code and study ID.
+
+2. How to adjust MRI by intracranial volume? Do all MRI variables need this adjustment? 
+All volume variables need to be adjusted, not the thickness variables.
+Different type of adjustments have been used.
+a) simple division of e.g. Left Hippocampus Volume by Intracranial Volume (not optimal)
+b) include both e.g. Left Hippocampus Volume and Intracranial Volume in regression model
+c) regress e.g. Left Hippocampus Volume on Intracranial Volume and use the residual as the adjusted variable
+
+3. Left vs Right
+Earlier analysis seems to suggest Right side is more predictive in BIOCARD. This may not be general.
+Use bilateral is better, both or the summation. 
+
+4. VISITNO
+a) VISITNO and the lowercase "visitno" in other data are the same
+b) Values 1, 2, 3,... are the visits in NIH, values 101, 102, 103, ... are the visits in JHU
+c) Value "5/999" are those dead before enrolling in JHU
+d) Value "-1" is visit before enrollment, typically due to participants from other study, can be excluded.
+e) Value such as "7.2" is another visit close to the scheduled yearly visit (2 month later?) It's better to use the actual visit date
+
+5. Diagnosis
+Always use the variables in the diagnosis file, ignore the diagnosis variable in other files. 
+In BIOCARD_Amygdala_MRI_Measures_08022013, What does ncf and nco standard for in "diagnosis at last scan"
+Ignore those, but they are likely stand for normal cognitive function and normal cognition.
+
+6. DECAGE variable
+It is the estimated age of sympton onset. This is due to the gap between the NIH　study and the JHU study. 
+If a subject is normal at NIH and abnormal when enrolled in JHU, they are interviewed (subject, informant, CDR questions) and assigned a DECAGE.
+
+7. Merge
+Merge different measurements based on the closet visit date (within a year) is the best. Note the intend schedule is
+yearly for cognitive tests, every other year for MRI and CSF
+For this and other purpose, it is worthwhile to create a variable counts months from study enrollment.
+
+8. Cognitive tests
+–Logical Memory, WMS, Delayed Recall
+   Use LOGMEM2A, not LOGMEM2B (story B has too much ceiling effect)
+   The immediate recall LOGMEM1A is worth looking too.  
+–Paired Associates, WAIS, Immediate Recall
+    Paired1	
+–Digit Symbol Substitution Test
+     DSST
+–Boston Naming Test, % Correct
+     BNTPCT
+–Auditory verbal learning test (AVLT)
+     Not available, use California Verbal Learning Test instead. 
+	 CVLTTOTL Memory
+	 CVLT: Number correct trials #1 to #5 gets attention (#5-#1)
+Other cognitive tests to look at:
+Rey recall
+variables relates to Fluency test
+Animal naming
+Digit span (backward, forward)
+
+Selection criterion for cognitive tests:
+a) Not all the tests are available since baseline, so how far back are they available is one criteria.
+b) Do they have enough variability, since the cohort is relatively normal
+
+9. Etiologies will be required later
+
+10. LIST_A contains a list of subjects who have not re-enrolled in BIOCARD and not given their permission to use our data. These participants should be EXCLUDED from ALL analyses. 
+
+11. Subjects in LIST_B (also attached) were impaired at baseline, as determined by their age of onset of symptoms, and should be excluded from analyses that look at participants who were cognitively normal at baseline (i.e., any analyses that looks at risk of progression to MCI/dementia).
+
+12. CDR global and CDR sum of box, MMSE, various composite scores
+     a) A global cognitive composite score:  The score is based on analyses described in Albert et al., 2014 (attached) and a sample publication that uses the score can be found in Soldan et al., 2016, attached..  It's a z-score average of 4 tests that we found to be the best combination of cognitive predictors of progression to MCI. 
+     b) A composite score of AD-vulnerable cortical thickness regions from Freesurfer that is described in Pettigrew et al. (2016), see attached.  It's a z-score average of 8 cortical thickness measures.  If you need the Freesurfer files with these measures (cross-sectional or longitudinal), please let me know and I can send them to you.
+     c) A medial temporal lobe volume composite score, described in Pettigrew et al. (2017, attached), that has been very useful. It's the average of 4 volumes (residualized for ICV).
+     d) also have domain-specific cognitive composite scores (e.g., episodic memory, executive function). 
+
+For the domain-specific cognitive composite scores there are two kinds:
+1.  available from baseline (i.e., NIH and JHU visits)
+     - Includes composites for (1) verbal episodic memory, (2) executive function/speed of processing, and (3) visual-spatial processing.  The first two are described in the attached paper, which is now in press at Annals of Clinical and Translational Neurology. The visual-spatial score is the z-score average of 3 variables:  Rey Complex Figure Copy (C1A107), Rey Complex Figure Recall (C1A108), and WAIS-R Block Design (C1A106).
+2.  available for JHU visits only (visit 101 onwards)
+     - Includes composites for episodic memory, executive function, language, and visual-spatial processing.  These are based on a confirmatory factor analysis, as described in the attached document (Cognitive Composite Scores from CFA).  The reason you can't use these for NIH data is that some of the tests (e.g., Trails B, CVLT, fluency) were not given at baseline, but introduced later on by the NIH staff (i.e., several years after baseline). We've used these scores in one prior publication (Lin et al., 2019, attached and they are described in the supplement for the paper, also attached).
+
