@@ -13,16 +13,17 @@
 #' dt_biocard <- get_biocard(path)
 #' }
 get_biocard <- function(path) {
-  dat_cog <- read.xls(xls = paste(path, "BIOCARD_CognitiveData_2020.04.22.xls", sep = ""))
-  dat_dx <- read.xls(xls = paste(path, "BIOCARD_Diagnosis_2020.05.03.xls", sep = ""))
-  dat_csf <- read.xls(xls = paste(path, "FINAL_CSF_wdup 20140422.xls", sep = ""))
+  file_names <- list.files(path = path, pattern = '*.xls')
+  dat_cog <- read.xls(xls = paste(path, file_names[grep("CognitiveData", file_names)], sep = ""))
+  dat_dx <- read.xls(xls = paste(path, file_names[grep("Diagnosis", file_names)], sep = ""))
+  dat_csf <- read.xls(xls = paste(path, file_names[grep("FINAL_CSF", file_names)], sep = ""))
   dat_cog$VISITDATE <- as.Date(dat_cog$VISITDATE, "%Y-%m-%d")
   dat_dx$DIAGDATE <- as.Date(dat_dx$DIAGDATE, "%Y-%m-%d")
   dat_csf$Date <- as.Date(dat_csf$Date, "%m/%d/%y")
   names(dat_csf)[7:9] <- c("tau", "abeta", "ptau")
 
   # MRI hippocampus
-  hippo_dat <- read.xls(xls = paste(path, "BIOCARD_Hippocampus_MRI_Measures_08022013.xlsx", sep = ""))[-c(1:2), ]
+  hippo_dat <- read.xls(xls = paste(path, file_names[grep("Hippocampus", file_names)], sep = ""))[-c(1:2), ]
   hippo_dat$Scan.Date <- as.Date(hippo_dat$Scan.Date, "%d-%B-%Y")
   hippo_dat$Intracranial.Volume <- as.numeric(hippo_dat$Intracranial.Volume)
   hippo_dat$Left.Hippocampus <- as.numeric(hippo_dat$Left.Hippocampus)
@@ -30,7 +31,7 @@ get_biocard <- function(path) {
   hippo_dat$bihippo <- (hippo_dat$Left.Hippocampus + hippo_dat$Right.Hippocampus)/2
 
   # MRI amygdala
-  amy_dat <- read.xls(xls = paste(path, "BIOCARD_Amygdala_MRI_Measures_08022013.xlsx", sep = ""))[-c(1:2), ]
+  amy_dat <- read.xls(xls = paste(path, file_names[grep("Amygdala", file_names)], sep = ""))[-c(1:2), ]
   amy_dat$Scan.Date <- as.Date(amy_dat$Scan.Date, "%d-%B-%Y")
   amy_dat$Intracranial.Volume <- as.numeric(amy_dat$Intracranial.Volume)
   amy_dat$Left.Amygdala <- as.numeric(amy_dat$Left.Amygdala)
@@ -38,7 +39,7 @@ get_biocard <- function(path) {
   amy_dat$biamy <- (amy_dat$Left.Amygdala + amy_dat$Right.Amygdala) / 2
 
   # MRI EC volume
-  ec_dat <- read.xls(xls = paste(path, "BIOCARD_Entorhinal_Cortex_MRI_Measures_08022013_including_thickness.xlsx", sep = ""))[-c(1:2), ]
+  ec_dat <- read.xls(xls = paste(path, file_names[grep("Entorhinal", file_names)], sep = ""))[-c(1:2), ]
   ec_dat$Scan.Date <- as.Date(ec_dat$Scan.Date, "%d-%B-%Y")
   ec_dat$Intracranial.Volume <- as.numeric(ec_dat$Intracranial.Volume)
   ec_dat$Left.Entorhinal.Cortex.Volume..cu..mm. <- as.numeric(ec_dat$Left.Entorhinal.Cortex.Volume..cu..mm.)
@@ -97,8 +98,8 @@ get_biocard <- function(path) {
 
 
   # exclude subjects from list A and list B
-  listA <- read.xls(xls = paste(path, "LIST_A_Subjects Not Enrolled-Jan 2020.xlsx", sep = ""))
-  listB <- read.xls(xls = paste(path, "LIST_B_IMPAIRED_AT_BASELINE.09.22.2015.xlsx", sep = ""))
+  listA <- read.xls(xls = paste(path, file_names[grep("LIST_A", file_names)], sep = ""))
+  listB <- read.xls(xls = paste(path, file_names[grep("LIST_B", file_names)], sep = ""))
   exid <- c(listA$STUDY_ID, listB$STUDY_ID)
 
   return(dat)
