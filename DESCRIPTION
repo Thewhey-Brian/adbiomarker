@@ -4,7 +4,7 @@ Title: Alzheimer’s Disease (AD) Pathology Modeling
 Version: 0.1.0
 Author: Who wrote it
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: Provides tools for statistical modeling the joint biomarker dynamics of the Alzheimer’s disease (AD) pathology.
+Description: Provide tools for statistical modeling the joint biomarker dynamics of the Alzheimer’s disease (AD) pathology.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
