@@ -4,10 +4,21 @@
 \alias{get_biocard}
 \title{Get BIOCARD Data}
 \usage{
-get_biocard(path)
+get_biocard(
+  path = "/Users/name/Data/BIOCARD",
+  pattern = "*.xls",
+  parameter_file = "par_file.xlsx",
+  variable_file = "variables.xlsx"
+)
 }
 \arguments{
-\item{path}{The path where the biocard data stored}
+\item{path}{Location where the biocard data stored}
+
+\item{pattern}{Pattern of the data files}
+
+\item{parameter_file}{Parameters dictionary (could be modified if needed)}
+
+\item{variable_file}{Variables dictionary (could be modified if needed)}
 }
 \value{
 a table with merged biocard data

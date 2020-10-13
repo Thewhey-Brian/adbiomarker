@@ -2,5 +2,9 @@
 
 export(get_biocard)
 export(get_nacc)
+export(get_table)
 export(hello)
-import(gdata)
+export(map_var)
+export(mymatch)
+importFrom(dplyr,filter)
+importFrom(readxl,read_xlsx)

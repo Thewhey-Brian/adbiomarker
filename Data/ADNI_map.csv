@@ -1,0 +1,569 @@
+,file_label,file_name
+0,"Diagnosis and Symptoms Checklist [ADNI1,GO,2]",adni-lipidomics-eics.zip
+1,"Diagnostic Summary - Baseline Changes [ADNI1,GO,2,3]",ADSXLIST.csv
+2,"Diagnostic Summary [ADNI1,GO,2,3]",BLCHANGE.csv
+3,ADAS Sub-Scores and Total Scores [ADNI1],DXSUM_PDXCONV_ADNIALL.csv
+4,Alzheimer's Disease Assessment Scale (ADAS) [ADNI1],ADASSCORES.csv
+5,"Alzheimer's Disease Assessment Scale (ADAS) [ADNIGO,2,3]",ADAS_ADNI1.csv
+6,"Clinical Dementia Rating Scale (CDR) [ADNI1,GO,2,3]",ADAS_ADNIGO23.csv
+7,"Cognitive Change Index [ADNI2,3]",CDR.csv
+8,Cogstate Battery Documentation,CCI.csv
+9,Cogstate Battery Results Dictionary,ADNI_Cogstate_Description_and_Description_29October2015.pdf
+10,"Cogstate Battery Results [ADNI2,3]",ADNI_CBBRESULTS_DICT.csv
+11,Cogstate Brief Battery [ADNI3],ADNI_CBBRESULTS.csv
+12,"Everyday Cognition - Participant Self Report [ADNIGO,2,3]",CBBCOMP.csv
+13,"Everyday Cognition - Study Partner Report [ADNIGO,2,3]",ECOGPT.csv
+14,Financial Capacity Instrument Short Form (FCI-SF) [ADNI3],ECOGSP.csv
+15,"Functional Activities Questionnaire (FAQ) [ADNI1,GO,2,3]",FCI.csv
+16,"Geriatric Depression Scale (GDS) [ADNI1,GO,2,3]",FAQ.csv
+17,"Item Level Data (ADAS-Cog, ANART, MMSE, etc) [ADNI1]",GDSCALE.csv
+18,"Item Level Data Dictionary (ADAS-Cog, ANART, MMSE, etc) [ADNI1]",ITEM.csv
+19,"Mini-Mental State Examination (MMSE) [ADNI1,GO,2,3]",ITEM_DICT.csv
+20,"Modified Hachinski Ischemia Scale [ADNI1,GO,2,3]",MMSE.csv
+21,"Montreal Cognitive Assessment (MoCA) [ADNIGO,2,3]",MODHACH.csv
+22,"Neuropsychiatric Inventory (NPI) [ADNI2,3]",MOCA.csv
+23,"Neuropsychiatric Inventory Questionnaire (NPI-Q) [ADNI1,GO,2,3]",NPI.csv
+24,"Neuropsychological Battery [ADNI1,GO,2,3]",NPIQ.csv
+25,"UW - Neuropsych Summary Scores Dictionary [ADNI1,GO,2,3]",NEUROBAT.csv
+26,UW - Neuropsych Summary Scores Methods,UWNPSYCHSUM_DICT_03_26_20.csv
+27,"UW - Neuropsych Summary Scores [ADNI1,GO,2,3]",ADNI_Methods_UWNPSYCHSUM_March_2020.pdf
+28,BHR Data Dictionary [ADNI3],UWNPSYCHSUM_03_26_20.csv
+29,Brain Health Registry: BASELINE QUESTIONNAIRE [ADNI3],BHR_DATADIC.csv
+30,Brain Health Registry: EVERYDAY COGNITION [ADNI3],BHR_BASELINE_QUESTIONNAIRE.csv
+31,Brain Health Registry: LONGITUDINAL QUESTIONNAIRE [ADNI3],BHR_EVERYDAY_COGNITION.csv
+32,Brain Health Registry: MEMTRAX Information [ADNI3] (PDF),BHR_LONGITUDINAL_QUESTIONNAIRE.csv
+33,Brain Health Registry: MEMTRAX [ADNI3],ADNI_BHR_MemTrax_20200129.pdf
+34,Brain Health Registry: Overview (PDF),BHR_MEMTRAX.csv
+35,Brain Health Registry: STUDY PARTNER ADL [ADNI3],ADNI_Methods_BHR_Summary_20180405.pdf
+36,Brain Health Registry: STUDY PARTNER CAREGIVER BURDEN [ADNI3],BHR_SP_ADL.csv
+37,Brain Health Registry: STUDY PARTNER EVERYDAY COGNITION [ADNI3],BHR_SP_CAREGIVER_BURDEN.csv
+38,Brain Health Registry: STUDY PARTNER FAQ [ADNI3],BHR_SP_EVERYDAY_COGNITION.csv
+39,Brain Health Registry: STUDY PARTNER INITIAL [ADNI3],BHR_SP_FAQ.csv
+40,Brain Health Registry: STUDY PARTNER RELATIONSHIP [ADNI3],BHR_SP_INITIAL.csv
+41,Brain Health Registry: STUDY PARTNER STUDY CONFIRMATION [ADNI3],BHR_SP_RELATIONSHIP.csv
+42,"Aliquot Count in the LDMS Database Dictionary [ADNI1,GO,2,3]",BHR_SP_STUDY_CONFIRMATION.csv
+43,"Aliquot Count in the LDMS Database [ADNI1,GO,2,3]",ALIQUOT_LIST_01_24_20_DICT.csv
+44,"CSF Aliquot Inventory (PDF) [ADNI1,GO,2]",ALIQUOT_LIST_01_24_20.csv
+45,"Plasma Aliquot Inventory (PDF) [ADNI1,GO,2]",ADNI_CSF_Aliquot_Inventory_Description_28Jan2016.pdf
+46,"Residual Aliquot Count in the LDMS Database Dictionary [ADNIGO,2]",ADNI_Plasma_Aliquot_Inventory_Description_28Jan2016.pdf
+47,"Residual Aliquot Count in the LDMS Database Document [ADNIGO,2]",RESIDUAL_ALIQUOT_LIST_DICT.csv
+48,"Residual Aliquot Count in the LDMS Database [ADNIGO,2]",ADNI_Biomarker_Core_Residual_CSF_aliquot_samples_20160509.pdf
+49,"UPENN - 2D-UPLC tandem mass spectrometry measurement of Abeta42, Abeta40 and Abeta38 adjustment of Abeta42 results to CRM. [ADNI1,GO,2]",RESIDUAL_ALIQUOT_LIST.csv
+50,"UPENN 2D-UPLC tandem mass spectrometry measurement of Abeta42, Abeta40 and Abeta38 and adjustment of Abeta42 results to CRM Dictionary [ADNI1,GO,2]",UPENNMSMSABETA2CRM.csv
+51,AD Metabolomics Consortium Barcelona Purines,UPENNMSMSABETA2CRM_DICT.csv
+52,AD Metabolomics Consortium Barcelona Purines Dictionary,ADMCBARCELONAPURINE.csv
+53,AD Metabolomics Consortium Barcelona Purines Methods,ADMCBARCELONAPURINE_DICT.csv
+54,"AD Metabolomics Consortium Bile Acids - Post Processed Data Dictionary [ADNI1,GO,2]",ADNI_Methods_ADMC_Spain_Purine_20151113.pdf
+55,"AD Metabolomics Consortium Bile Acids - Post Processed Data [ADNI1,GO,2]",ADMC_BA_POSTPROC_06_28_18_DICT.csv
+56,AD Metabolomics Consortium Bile Acids Dictionary [ADNI1],ADMC_BA_POSTPROC_06_28_18.csv
+57,AD Metabolomics Consortium Bile Acids Methods (PDF),ADMCBA_DICT.csv
+58,AD Metabolomics Consortium Bile Acids [ADNI1],ADNI_ADMC_Bile_Acids_Method_Description_20160121.pdf
+59,AD Metabolomics Consortium Lipidomics Methods (PDF),ADMCBA.csv
+60,ADMC About the Metabolomics Data,ADNI_ADMC_Lipidomics_Methods_20160816.pdf
+61,ADMC Duke ADNI1 Baseline Drug Classes,ADNI_Methods_About_the_Metabolomics_Data_v3.1_20160115.pdf
+62,ADMC Duke ADNI2/GO Drug Classes,ADMCADNI1SCPATIENTDRUGCLASSES.csv
+63,ADMC Duke Biocrates P180 Kit Flow injection analysis Dictionary [ADNI1],ADMCPATIENTDRUGCLASSES_20170512.csv
+64,"ADMC Duke Biocrates p180 Kit Flow injection analysis Dictionary [ADNIGO,2]",ADMCDUKEP180FIA_DICT.csv
+65,ADMC Duke Biocrates P180 Kit Flow injection analysis [ADNI1],ADMCDUKEP180FIAADNI2GO_DICT.csv
+66,"ADMC Duke Biocrates p180 Kit Flow injection analysis [ADNIGO,2]",ADMCDUKEP180FIA_01_15_16.csv
+67,ADMC Duke Biocrates P180 Kit Ultra Performance Liquid Chromatography Dictionary,ADMCDUKEP180FIAADNI2GO.csv
+68,ADMC Duke Biocrates P180 Kit Ultra Performance Liquid Chromatography Methods (PDF),ADMCDUKEP180UPLC_DICT.csv
+69,ADMC Duke Biocrates P180 Kit Ultra Performance Liquid Chromatography [ADNI1],ADMC_Duke_Biocrates_p180_Methods_Summary.pdf
+70,ADMC Duke Clinical Variables,ADMCDUKEP180UPLC_01_15_16.csv
+71,ADMC Duke p180 Flow injection analysis - Post Processed Data,ADMC_CLINICALVARIABLES_16May2016.csv
+72,ADMC Duke p180 Flow injection analysis Raw Spectra,ADMCDUKEP180FIA.LEVEL5.csv
+73,ADMC Duke p180 Mass Spec Worklist Files,4097_ADNI1_p180_FIA_RawData.zip
+74,"ADMC Duke p180 Supplementary Files [ADNIGO,2]",4097_ADNI1_p180_Worklists.zip
+75,ADMC Duke P180 Ultra Performance Liquid Chromatography - Post Processed Data,ADMCDUKEP180SUPP_20170410.zip
+76,"ADMC Duke p180 Ultra Performance Liquid Chromatography Dictionary [ADNIGO,2]",ADMCDUKEP180UPLC.LEVEL5.csv
+77,ADMC Duke P180 Ultra Performance Liquid Chromatography Raw Spectra,ADMCDUKEP180UPLCADNI2GO_DICT.csv
+78,"ADMC Duke p180 Ultra Performance Liquid Chromatography [ADNIGO,2]",4097_ADNI1_p180_UPLC_RawData.zip
+79,ADMC Duke p180 Worklist Raw File Mapping Data Dictionary,ADMCDUKEP180UPLCADNI2GO.csv
+80,ADMC Lipidomics Extracted Ion Chromatigrams [ADNI1],p180_Raw_File_Mapping_Data_Dictionary.xlsx
+81,ADMC Lipidomics Measured Lipid Molecules Data (ISA-tab) [ADNI1],adni1_lipidomics_isa_tab.zip
+82,ADMC Lipidomics Measured Lipid Molecules Data Dictionary [ADNI1],ADNI_ADMCLIPIDOMICS_DICT.csv
+83,ADMC Lipidomics Measured Lipid Molecules Data Matrix [ADNI1],ADMC_ADNI1_LIPIDOMICS_Data.zip
+84,ADMC Lipidomics Meikle Lab Baseline Data Matrix Dictionary [ADNI1],LIPIDOMICSDATABASE_MEIKLELAB_DICT.csv
+85,ADMC Lipidomics Meikle Lab Baseline Data Matrix Methods (PDF),adni_lipidomics_meiklelab_methods_20190314.pdf
+86,ADMC Lipidomics Meikle Lab Baseline Data Matrix Version History (PDF),adni_lipidomics_meiklelab_readme_20190314.pdf
+87,ADMC Lipidomics Meikle Lab Baseline Data Matrix [ADNI1],LIPIDOMICSDATABASE_MEIKLELAB_03_05_19.csv
+88,ADMC Lipidomics Raw LCMS data files ESI negative modes [ADNI1],ADNI1_LIPIDOMICS_RAW_DATA_ESI_NEG.zip
+89,ADMC Lipidomics Raw LCMS data files ESI positive modes [ADNI1],ADNI1_LIPIDOMICS_RAW_DATA_ESI_POS.zip
+90,ADMC Lipidomics Sample Prep and Analysis Methods [ADNI1],ADNI_UCD_lipidomics_SOP.docx
+91,"ADMC M2OVE-AD ADNIGO-2 Bile Acids Dictionary[ADNIGO,2]",ADNI_ADMCM2OVEBA_DICT.csv
+92,"ADMC M2OVE-AD ADNIGO-2 Bile Acids[ADNIGO,2]",ADNI_ADMCM2OVEBA.csv
+93,ADMC Metabolomic Analysis by Gas chromatography time of flight mass spectrometry (GCTOF) Data Dictionary [ADNI1],ADMCGCTOF_DICT.csv
+94,ADMC Metabolomic Analysis by Gas chromatography time of flight mass spectrometry (GCTOF) Data [ADNI1],ADMCGCTOF.csv
+95,ADMC Metabolomic Analysis by Gas chromatography time of flight mass spectrometry (GCTOF) Methods (PDF),ADMC_Metabolomic_Analysis_by_Gas_Chromatography_TOF_Mass_Spectrometry_Methods_20170920.pdf
+96,"ADMC Nightingale Platform NMR Analysis of Lipoproteins and Metabolites Dictionary [ADNI1,GO,2]",ADNINIGHTINGALE_DICT_20180827.csv
+97,"ADMC Nightingale Platform NMR Analysis of Lipoproteins and Metabolites Methods [ADNI1,GO,2]",ADNI_ADMC_Nightingale_Docs.zip
+98,"ADMC Nightingale Platform NMR Analysis of Lipoproteins and Metabolites [ADNI1,GO,2]",ADNINIGHTINGALE_20180827.csv
+99,"ADMC Phenomenome Phosphatidylcholine, Lysophosphatidylcholine Flow Injection Negative Ionization LC-MS/MS Internal Std Ratios",ADMCPDINESIPCISRATIOS_01_15_16.csv
+100,"ADMC Phenomenome Phosphatidylcholine, Lysophosphatidylcholine Flow Injection Negative Ionization LC-MS/MS Internal Std Ratios Dictionary",ADMCPDINESIPCISRATIOS_DICT.csv
+101,"ADMC Phenomenome Phosphatidylcholine, Lysophosphatidylcholine Flow Injection Negative Ionization LC-MS/MS Internal Std Ratios Processing",ADMC_Processing_IS_Ratios_Final.docx
+102,"ADMC Phenomenome Phosphatidylcholine, Lysophosphatidylcholine Flow Injection Negative Ionization LC-MS/MS Protocol (PDF)",ADMC_DMC_Phenomenome_Phosphatidylcholine_Lysophosphatidylcholine_Flow_Injection_Negative_Ionization_LC-MS-MS_Protocol.pdf
+103,"ADMC Phenomenome Phosphatidylcholine, Lysophosphatidylcholine, Sphingomyeline Flow Injection Positive Ionization LC-MS/MS Internal Standard Ratios",ADMCPDIPESIPCISRATIOS_01_15_16.csv
+104,"ADMC Phenomenome Phosphatidylcholine, Lysophosphatidylcholine, Sphingomyeline Flow Injection Positive Ionization LC-MS/MS Internal Standard Ratios Dictionary",ADMCPDIPESIPCISRATIOS_DICT.csv
+105,"ADMC Phenomenome Phosphatidylcholine, Lysophosphatidylcholine, Sphingomyeline Flow Injection Positive Ionization LC-MS/MS Internal Standard Ratios Protocol",ADMC_Phenomenome_Phosphatidylcholine_Lysophosphatidylcholine_Sphingomyeline_Flow_Injection_Positive_Ionization_LC-MS-MS_Protocol.pdf
+106,"ADMC Phenomenome Phosphatidylethanolamine, Plasmenylethanolamine Flow Injection LC-MS/MS Internal Std Ratios",ADMCPDIPEISRATIOS_01_15_16.csv
+107,"ADMC Phenomenome Phosphatidylethanolamine, Plasmenylethanolamine Flow Injection LC-MS/MS Internal Std Ratios Dictionary",ADMCPDIPEISRATIOS_DICT.csv
+108,"ADMC Phenomenome Phosphatidylethanolamine, Plasmenylethanolamine Flow Injection LC-MS/MS Peak Heights Dictionary [ADNI1,GO,2]",ADMCPDIPEPEAKHEIGHTS_DICT_07_12_17.csv
+109,"ADMC Phenomenome Phosphatidylethanolamine, Plasmenylethanolamine Flow Injection LC-MS/MS Peak Heights Supplementary Materials [ADNI1,GO,2]",ADMC_Phenomenome_PE_Supplementary_Files_ADNIGO2.zip
+110,"ADMC Phenomenome Phosphatidylethanolamine, Plasmenylethanolamine Flow Injection LC-MS/MS Peak Heights [ADNI1,GO,2]",ADMCPDIPEPEAKHEIGHTS_07_12_17.csv
+111,"ADMC Phenomenome Phosphatidylethanolamine, Plasmenylethanolamine Flow Injection LC-MS/MS Protocol (PDF)",ADMC_Phenomenome_Phosphatidylethanolamine_Plasmenylethanolamine_Flow_Injection_LC-MS-MS_Protocol.pdf
+112,ADMC Supplemental Materials,ADMC_supplement.zip
+113,ADMC Targeted UHPLC-MS analysis of High-Value Metabolites in Serum Samples Dictionary [ADNI1],ADNI_ADMCHICALMETAB_DICT.csv
+114,ADMC Targeted UHPLC-MS analysis of High-Value Metabolites in Serum Samples [ADNI1],ADNI_ADMCHICALMETAB.csv
+115,ADNI Biomarker Core Laboratory. Baseline Isoprostanes Data Dictionary [ADNI1],ISOPROSTANE_DICT.csv
+116,ADNI Biomarker Core Laboratory. Baseline Isoprostanes Data [ADNI1],ISOPROSTANE.csv
+117,"ApoE - Results Dictionary [ADNI1,GO,2]",APOERES_DICT.csv
+118,"ApoE - Results [ADNI1,GO,2,3]",APOERES.csv
+119,"Araclon Biotech S.L. AB test40 and 42 Plasma Analysis Dictionary [ADNI1,GO,2]",PLASMAABETA_DICT.csv
+120,"Araclon Biotech S.L. AB test40 and 42 Plasma Analysis [ADNI1,GO,2]",PLASMAABETA.csv
+121,Bateman Lab Plasma Abeta42/Abeta40 Ratio as a Predictor of Brain Amyloidosis,batemanlab_20190621.csv
+122,Bateman Lab Plasma Abeta42/Abeta40 Ratio as a Predictor of Brain Amyloidosis Dictionary,batemanlab_dict_20190621.csv
+123,Bateman Lab Plasma Abeta42/Abeta40 Ratio as a Predictor of Brain Amyloidosis Methods (PDF),ADNI_Methods_Batemanlab_20190612.pdf
+124,"Biomarker Samples [ADNI1,GO,2,3]",BIOMARK.csv
+125,Biomarkers Consortium ADNI CSF BACE ACTIVITY and sAPPbeta Data & Primer (Zip file),BiomarkersConsortiumCSF_Proteomics_02Aug2013.zip
+126,Biomarkers Consortium CSF Proteomics MRM Consolidated Data (.xlsx),ADNI_CSFMRM_CONSOLIDATED_DATA_10Apr2014.xlsx
+127,Biomarkers Consortium CSF Proteomics MRM Data Dictionary [ADNI1],CSFMRM_DICT.csv
+128,Biomarkers Consortium CSF Proteomics MRM Data Primer (PDF),ADNI_Bimarkers_Consortium_MRM_Data_Primer04Apr2014.pdf
+129,Biomarkers Consortium CSF Proteomics MRM Data [ADNI1],CSFMRM.csv
+130,Biomarkers Consortium CSF Proteomics Project RBM Multiplex Data and Primer (Zip file),BiomarkersConsortiumCSF_ADNI1_02Aug2013.zip
+131,Biomarkers Consortium Plasma Proteomics Project RBM Multiplex Data and Primer (Zip file),adni_proteomicsv2.zip
+132,Blennow Lab - CSF NFL Dictionary [ADNI 1],BLENNOWCSFNFL_DICT.csv
+133,Blennow Lab - CSF NFL Methods (PDF),ADNI_BLENNOWCSFNFL_METHODS.pdf
+134,Blennow Lab - CSF NFL [ADNI 1],BLENNOWCSFNFL.csv
+135,Blennow Lab - CSF Ng Dictionary [ADNI1],BLENNOWCSFNG_DICT.csv
+136,Blennow Lab - CSF Ng Methods (PDF),ADNI_Methods_BlennowLab_CSF_Ng.pdf
+137,Blennow Lab - CSF Ng [ADNI1],BLENNOWCSFNG.csv
+138,Blennow Lab - Plasma NFL Methods [ADNI 1],ADNI_Blennow_Lab_Plasma_NFL_20160927.pdf
+139,Blennow Lab - Plasma Tau Dictionary [ADNI1],BLENNOWPLASMATAU_DICT.csv
+140,Blennow Lab - Plasma Tau Methods [ADNI 1],ADNI_Methods_BlennowLabPlasma_tau_20150804.pdf
+141,Blennow Lab - Plasma Tau [ADNI1],BLENNOWPLASMATAU.csv
+142,Blennow Lab ADNI1 Plasma neurofilament light (NFL) Dictionary [ADNI1],ADNI_BLENNOWPLASMANFL_DICT.csv
+143,Blennow Lab ADNI1 Plasma neurofilament light (NFL) [ADNI1],ADNI_BLENNOWPLASMANFL_10_03_18.csv
+144,"Blennow Lab ADNI1-2 Plasma neurofilament light (NFL) longitudinal Dictionary [ADNI1,GO,2]",ADNI_BLENNOWPLASMANFLLONG_DICT_10_03_18.csv
+145,"Blennow Lab ADNI1-2 Plasma neurofilament light (NFL) longitudinal [ADNI1,GO,2]",ADNI_BLENNOWPLASMANFLLONG_10_03_18.csv
+146,Blood-based biomarkers for early diagnosis and progression of Alzheimer's disease GenePix data,ADNI_nagelelab_serumaabdata.zip
+147,Blood-based biomarkers for early diagnosis and progression of Alzheimer's disease GenePix data methods (PDF),ADNI_NAGELELAB_SERUMAAB_METHODS.pdf
+148,"CSF - Local Lab Results [ADNI1,GO,2,3]",LOCLAB.csv
+149,"CSF Hemoglobin ELISA and PS129 Luminex Assays (Zhang Lab, University of Washington) Dictionary [ADNI1,GO,2]",ADNI_ZHANG_DICT.csv
+150,"CSF Hemoglobin ELISA and PS129 Luminex Assays (Zhang Lab, University of Washington) METHODS [ADNI1,GO,2]",ADNI_CSF_Hemoglobin_ELISA_and_PS129_Luminex_Assays_20160920.pdf
+151,"CSF Hemoglobin ELISA and PS129 Luminex Assays (Zhang Lab, University of Washington) [ADNI1,GO,2]",ADNI_ZHANG.csv
+152,"CSF soluble triggering receptor expressed on myeloid cells 2 (sTREM2) and progranulin (PGRN) Dictionary [ADNI1,GO,2]",ADNI_HAASS_WASHU_LAB_DICT.csv
+153,CSF soluble triggering receptor expressed on myeloid cells 2 (sTREM2) and progranulin (PGRN) Methods (PDF),ADNI_CSF_sTREM2_PGRN_Methods_20180316.pdf
+154,"CSF soluble triggering receptor expressed on myeloid cells 2 (sTREM2) and progranulin (PGRN) [ADNI1,GO,2]",ADNI_HAASS_WASHU_LAB.csv
+155,DDE Analysis Summary Dictionary [ADNI 1],ADRC_EMORY_DDE_DICT.csv
+156,DDE Analysis Summary Methods (PDF),ADNI_ADRC_Emory_DDE_Methods.pdf
+157,DDE Analysis Summary [ADNI 1],ADRC_EMORY_DDE.csv
+158,"EUROIMMUN CSF Beta-Amyloid Dictionary [ADNI1,GO,2]",ADNI_EUROIMMUN_DICT.csv
+159,"EUROIMMUN CSF Beta-Amyloid [ADNI1,GO,2]",ADNI_EUROIMMUN.csv
+160,"Fagan Lab - CSF Visinin-like Protein-1 (VILIP-1) Dictionary [ADNI1,GO,2]",FAGANLAB_DICT_07_15_2015.csv
+161,Fagan Lab - CSF Visinin-like Protein-1 (VILIP-1) Methods (PDF),ADNI_Methods_Fagan_Lab_VILIP_20150715.pdf
+162,"Fagan Lab - CSF Visinin-like Protein-1 (VILIP-1) [ADNI1,GO,2]",FAGANLAB_07_15_2015.csv
+163,FNIH Biomarkers Consortium CSF Proteomics Project (Zip file),csfproteomics_20190403.zip
+164,"Fujirebio Beta-Amyloid Ratio Dictionary[ADNI1,GO,2]",FUJIREBIOABETA_DICT.csv
+165,"Fujirebio Beta-Amyloid Ratio[ADNI1,GO,2]",FUJIREBIOABETA.csv
+166,"Homocysteine - Results [ADNI1,GO]",HCRES.csv
+167,Hu Lab CSF inflammatory proteins Dictionary [ADNI1],ADNI_HULAB_DICT.csv
+168,Hu Lab CSF inflammatory proteins Methods (PDF),ADNI_Methods_Hu_Lab_CSF_Inflammatory_Proteins.pdf
+169,Hu Lab CSF inflammatory proteins [ADNI1],ADNI_HULAB.csv
+170,Lab Reference Range Report,ADNI_Reference_Range_Report.xlsx
+171,Lab Test Code List,ADNI_Test_Code_List.xlsx
+172,"Meso Scale Diagnostics Analysis of Residual CSF Samples Dictionary [ADNI1,GO,2]",ADNI_MESOSCALE_DICT.csv
+173,Meso Scale Diagnostics Analysis of Residual CSF Samples Methods (PDF),ADNI_Methods_MSD_20180809.pdf
+174,"Meso Scale Diagnostics Analysis of Residual CSF Samples [ADNI1,GO,2]",ADNI_MESOSCALE.csv
+175,Rader Lab ADNI 1 Lipids CAD ALZ Dictionary [ADNI1],ADNI_LIPIDOMICSRADER_DICT.csv
+176,Rader Lab ADNI 1 Lipids CAD ALZ [ADNI1],ADNI_LIPIDOMICSRADER.csv
+177,Redox Reactive Autoantibodies Data Dictionary [ADNI1],REDOX_DICT.csv
+178,Redox reactive autoantibodies Methods (PDF),McintyreJohn_Redox_20111012.pdf
+179,Redox Reactive Autoantibodies [ADNI1],REDOX.csv
+180,"Serum Autoantibody Data - Set 1 of 1 (Zip file) [ADNIGO,2]",adni_serum_autoantibody_data.zip
+181,Serum Autoantibody Methods (PDF),ADNI_Autoantibody_Serum_Study_Methods_Nagele_20121023.pdf
+182,"University of Gothenburg Longitudinal Plasma P-tau181 Dictionary [ADNI1,GO,2]",UGOTPTAU181_DICT_06_18_20.csv
+183,"University of Gothenburg Longitudinal Plasma P-tau181 Methods [ADNI1,GO,2]",ADNI_Methods_UOG_Longitudinal_plasma_P-tau181.pdf
+184,"University of Gothenburg Longitudinal Plasma P-tau181 [ADNI1,GO,2]",UGOTPTAU181_06_18_20.csv
+185,"UPENN - 2D-UPLC tandem mass spectrometry measurement of Abeta42, Abeta40 and Abeta38 Dictionary Methods [ADNI1]",ADNI_Methods_UPENN_2D_UPLC_MassSpec_20160829.pdf
+186,"UPENN - 2D-UPLC tandem mass spectrometry measurement of Abeta42, Abeta40 and Abeta38 Dictionary [ADNI1,GO,2]",UPENNMSMSABETA2_DICT.csv
+187,"UPENN - 2D-UPLC tandem mass spectrometry measurement of Abeta42, Abeta40 and Abeta38 Dictionary [ADNI1]",UPENNMSMSABETA_DICT.csv
+188,"UPENN - 2D-UPLC tandem mass spectrometry measurement of Abeta42, Abeta40 and Abeta38 Methods",ADNI_Methods_ADNI2_GO_2D_UPLC_Tandem_Mass_Spectrometry_Analyses_of_BASELINE_CSF_Final_2018_0611_v3.pdf
+189,"UPENN - 2D-UPLC tandem mass spectrometry measurement of Abeta42, Abeta40 and Abeta38 [ADNI1,GO,2]",UPENNMSMSABETA2.csv
+190,"UPENN - 2D-UPLC tandem mass spectrometry measurement of Abeta42, Abeta40 and Abeta38 [ADNI1]",UPENNMSMSABETA.csv
+191,"UPENN - ADNI/DIAN study CSF Elecsys results Dictionary [ADNI1,GO,2]",UPENNBIOMKADNIDIAN2017_DICT.csv
+192,UPENN - ADNI/DIAN study CSF Elecsys results Methods (PDF),ADNI_Methods_Shaw_2017_2018_Roche_Elecsys_ADNI_CSFs_in_DIAN_ADNI_study_3_29_2018_v3.pdf
+193,"UPENN - ADNI/DIAN study CSF Elecsys results [ADNI1,GO,2]",UPENNBIOMKADNIDIAN2017.csv
+194,UPENN - Plasma Biomarker Data Dictionary [ADNI1],UPENNPLASMA_DICT.csv
+195,UPENN - Plasma Biomarker Data [ADNI1],UPENNPLASMA.csv
+196,"UPENN CSF Biomarker Master Dictionary [ADNI1,GO,2]",UPENNBIOMK_MASTER_DICT.csv
+197,UPENN CSF Biomarker Master Methods (PDF),ADNI_UPENN_Biomarker_Master_Overview_Shaw_Figurski_Waligorska_Trojanowski_CSF_20160704a.pdf
+198,"UPENN CSF Biomarker Master [ADNI1,GO,2]",UPENNBIOMK_MASTER.csv
+199,"UPENN CSF Biomarkers Elecsys Dictionary [ADNI1,GO,2]",UPENNBIOMK9_DICT_04_19_17.csv
+200,"UPENN CSF Biomarkers Elecsys Dictionary [ADNI3, batch I]",UPENNBIOMK10_DICT_07_29_19.csv
+201,"UPENN CSF Biomarkers Elecsys METHODS [ADNI1,GO,2] (PDF)",ADNI_UPENN_CSF_Biomarkers_Elecsys_METHODS_20170411.pdf
+202,"UPENN CSF Biomarkers Elecsys Methods [ADNI3, batch I]",ADNI_Methods_Shaw_2019_Roche_Elecsys_ADNI3_CSFs_Batch1v1.pdf
+203,"UPENN CSF Biomarkers Elecsys [ADNI1,GO,2]",UPENNBIOMK9_04_19_17.csv
+204,"UPENN CSF Biomarkers Elecsys [ADNI3, batch I]",UPENNBIOMK10_07_29_19.csv
+205,UW - CSF Alpha-synuclein Dictionary [ADNI1],CSFALPHASYN_DICT_03_11_13.csv
+206,UW - CSF Alpha-synuclein Protocol (PDF),ADNI_CSF_alpha-syn_Luminex_protocol_1-12-2013.pdf
+207,UW - CSF Alpha-synuclein [ADNI1],CSFALPHASYN_03_21_14.csv
+208,UW - CSF Complement 3 & Factor H Dictionary [ADNI1],CSFC3FH_DICT.csv
+209,UW - CSF Complement 3 & Factor H Protocol (PDF) [ADNI1],ADNI_CSF_C3_FH_Protocol_20130709.pdf
+210,UW - CSF Complement 3 & Factor H [ADNI1],CSFC3FH.csv
+211,UW - Plasma EV Apogee,UWPLASMAEVAPOGEE_20200831.csv
+212,UW - Plasma EV Apogee Dictionary,UWPLASMAEVAPOGEE_DICT_20200831.csv
+213,UW - Plasma EV Apogee Methods (PDF),ADNI_Plasma_EV_Apogee_data_UW_Methods_20200831.pdf
+214,"ApoE Genotyping - Draw Data [ADNI1,GO]",APOE.csv
+215,"Clinical Laboratory Tests [ADNI1,GO,2,3]",LABTESTS.csv
+216,"Genetic Sample Collection [ADNI2,3]",GENETIC.csv
+217,"Laboratory Data [ADNI1,GO, 2]",LABDATA.csv
+218,"Method of CSF Collection [ADNI1,GO]",CSFMETH.csv
+219,ADNI-DIAN Comparison Study Codebook,ADNI_DIAN_Comparison_Codebook_20190220.csv
+220,ADNI-DIAN Comparison Study Data subset,ADNI_DIAN_Comparison_Data_20190425.csv
+221,ADNI-DIAN Comparison Study Summary Doc,ADNI-DIAN_Study_Summary_20190227.doc
+222,"Additional Comments [ADNI1,GO,2,3]",ADDCOMM.csv
+223,ADNI 2 Visit Codes Assignment Methods (PDF),ADNI_VISCODE2_Assignment_Methods.pdf
+224,ADNI 2 Visit Codes Lookup [ADNI2],ADNI2_VISITID.csv
+225,"Arm [ADNI1,GO,2]",ARM.csv
+226,Clinician Verification [ADNI3],CLIELG_ADNI3.csv
+227,"Clinician Verification [ADNIGO,2]",CLIELG.csv
+228,"Early Discontinuation and Withdrawal [ADNI1,GO,2]",TREATDIS.csv
+229,Exclusion Criteria [ADNI1],EXCLUSIO.csv
+230,Inclusion Criteria [ADNI1],INCLUSIO.csv
+231,"Neuropathology Status [ADNI2,3]",NPSTATUS.csv
+232,"Registry [ADNI1,GO,2,3]",REGISTRY.csv
+233,"Roster [ADNI1,GO,2,3]",ROSTER.csv
+234,Study Visits Summary,STUDYSUM.csv
+235,"Visits [ADNI1,GO,2,3]",VISITS.csv
+236,"Desikan Lab Polygenic Hazard Score (PHS) Dictionary [ADNI1,GO,2]",DESIKANLAB_DICT.csv
+237,"Desikan Lab Polygenic Hazard Score (PHS) Methods (PDF) [ADNI1,GO,2]",DesikanLab_Polygenic_Hazard_Score_Methods_20180730.pdf
+238,"Desikan Lab Polygenic Hazard Score (PHS) [ADNI1,GO,2]",DESIKANLAB.csv
+239,MAP2K3 genotyping data methods,ADNI_Methods_MAP2K3_20171218.pdf
+240,TOMM40 PolyT Variant Data [ADNI1],TOMM40.csv
+241,About the Genetic Data (PDF),ADNI_Genetics_Info_March2011.pdf
+242,ADNI 1 DNA Source Reference,ADNI_DNA_Source.csv
+243,ADNI 1 GWAS Data Dictionary,ADNI_1_GWAS_FinalReports_Keys.xlsx
+244,ADNI GO/2 DNA Source Reference,ADNI_GO_2_GWAS_DNA_Source.xlsx
+245,ADNI GO/2 GWAS Data Dictionary,ADNI_GO_2_GWAS_FinalReports_Keys.xlsx
+246,"ADNI Telomere length / Single copy gene (T/S) ratio of DNA from blood Methods [ADNIGO,2] (PDF)",ADNI_DNA_Telomere_Methods_04202017.pdf
+247,"ADNI Telomere length / Single copy gene (T/S) ratio of DNA from blood, adjusted for confounders Dictionary [ADNIGO,2]",TS_RATIO_ADJ_DICT.csv
+248,"ADNI Telomere length / Single copy gene (T/S) ratio of DNA from blood, adjusted for confounders [ADNIGO,2]",TS_RATIO_ADJ.csv
+249,TOMM40 PolyT Variant Data - About the Data (PDF) [ADNI1],ADNI_TOMM40_Overview.pdf
+250,"1.5T MRI Scan Information [ADNI1,GO,2,3]",MRIMETA.csv
+251,"3T MRI Scan Information [ADNI1,GO,2,3]",MRI3META.csv
+252,ADNI 3 Diffusion Gradient Table information for GE,ADNI3_diffusion_gradients_GE.zip
+253,ADNI 3 Diffusion Gradient Table information for Philips,ADNI3_diffusion_gradients_Philips.zip
+254,ADNI 3 Diffusion Gradient Table information for Siemens,ADNI3_diffusion_gradients_Siemens.zip
+255,"MP-RAGE Metadata Listing [ADNI1,GO,2]",MPRAGEMETA.csv
+256,MRI B1 Calibration [ADNI1],MRIB1CALIB.csv
+257,MRI Clinical Read [ADNI1],MRIREAD.csv
+258,MRI Phantom [ADNI1],MRIPHANTOM.csv
+259,MRI Protocol [ADNI1],MRIPROT.csv
+260,"MRI Scan Metadata Listing [ADNI1,GO,2,3]",MRILIST.csv
+261,MRI Serial [ADNI1],MRISERIAL.csv
+262,"MRI Subject Inclusion [ADNI1,GO,2]",MRINCLUSIO.csv
+263,ADNI3 MRI ANALYSIS MANUAL (PDF),ADNI3_MRI_Analysis_Manual_20180202.pdf
+264,ASHS volume data dictionary [ADNI3],ADNI_PICSLASHS_DICT_11_05_19.csv
+265,ASHS volume data methods (PDF),ADNI_PICSL_ASHS_methods_10-15-2018.pdf
+266,ASHS volume data [ADNI3],ADNI_PICSLASHS_05_05_20.csv
+267,"BAI - MRI NMRC Summaries Dictionary [ADNI1,GO,2]",BAIMRINMRC_DICT_09_12_16.csv
+268,"BAI - MRI NMRC Summaries [ADNI1,GO,2]",BAIMRINMRC_09_12_16.csv
+269,EADC - Harmonized Hippocampal Protocol Training Dataset (ZIP),ADNI_HHP_Training_Set.zip
+270,"Fox Lab - BSI Measures Dictionary [ADNI1,GO,2,3]",FOXLABBSI_DICT_03_27_20.csv
+271,Fox Lab - BSI Measures Methods (PDF),ADNI_FoxLab_BSI_Methods_20121031.pdf
+272,"Fox Lab - BSI Measures [ADNI1,GO,2,3]",FOXLABBSI_03_27_20.csv
+273,"Mayo (Jack Lab) - Default Mode Network Connectivity Dictionary [ADNIGO,2]",MAYOADIRL_MRI_FMRI_DICT_05_02_14.csv
+274,"Mayo (Jack Lab) - Default Mode Network Connectivity [ADNIGO,2]",MAYOADIRL_MRI_FMRI_11_07_17.csv
+275,"Mayo (Jack Lab) - Network Failure Quotient for rs-fMRI Dictionary [ADNIGO,2,3]",MAYOADIRL_MRI_FMRI_NFQ_DICT_05_04_20.csv
+276,"Mayo (Jack Lab) - Network Failure Quotient for rs-fMRI [ADNIGO,2,3]",MAYOADIRL_MRI_FMRI_NFQ_08_14_20.csv
+277,Mayo (Jack Lab) - Task-Free fMRI Summary Metric of DMN ROIs Methods (PDF),ADNI_Mayo_FMRI_DMN_ROI_Methods_20120131.pdf
+278,"Mayo (Jack Lab) - TBM-SyN Based Scores Dictionary [ADNIGO,2,3]",MAYOADIRL_MRI_TBMSYN_DICT_08_15_19.csv
+279,Mayo (Jack Lab) - TBM-SyN Based Scores Methods (PDF),ADNI_Methods_TBM_SyN_20131031v1_2.pdf
+280,"Mayo (Jack Lab) - TBM-SyN Based Scores [ADNIGO,2,3]",MAYOADIRL_MRI_TBMSYN_11_18_19.csv
+281,"MRI Infarcts Dictionary [ADNI1,GO,2]",MRI_INFARCTS_DICT.csv
+282,MRI Infarcts Methods (PDF),ADNI_UCD_MRI_Infarct_Assessment_Method_201130609.pdf
+283,"MRI Infarcts [ADNI1,GO,2]",MRI_INFARCTS_11_16_15.csv
+284,UA - MRI SPM Voxel Based Morphometry (VBM) Analysis Dictionary [ADNI1],UASPMVBM_DICT.csv
+285,UA - MRI SPM Voxel Based Morphometry (VBM) Analysis [ADNI1],UASPMVBM.csv
+286,UCD - Total Cranial Vault Segmentation Dictionary [ADNI1],TCV_DICT.csv
+287,UCD - Total Cranial Vault Segmentation Method and Grading Rubric (PDF),ADNI_Total_Cranial_Vault_Segmentation_Method_20121108.pdf
+288,UCD - Total Cranial Vault Segmentation [ADNI1],TCV.csv
+289,"UCD - White Matter Hyperintensity Volumes Dictionary [ADNI1,GO,2,3]",ADNI_UCD_WMH_DICT_09_01_20.csv
+290,UCD - White Matter Hyperintensity Volumes Dictionary [ADNI1],UCD_ADNI1_WMH_DICT.csv
+291,UCD - White Matter Hyperintensity Volumes Dictionary [ADNI2],ADNI_UCD_WMH_DICT_04_30_19.csv
+292,UCD - White Matter Hyperintensity Volumes Methods (PDF) [ADNI1],ADNI1_Methods_UCD_WMH_Volumes_Methods.pdf
+293,UCD - White Matter Hyperintensity Volumes Methods (PDF) [ADNI2],ADNI2_Methods_UCD_WMH_Volumes_20131218.pdf
+294,"UCD - White Matter Hyperintensity Volumes [ADNI1,GO,2,3]",ADNI_UCD_WMH_09_01_20.csv
+295,UCD - White Matter Hyperintensity Volumes [ADNI1],UCD_ADNI1_WMH.csv
+296,UCD - White Matter Hyperintensity Volumes [ADNI2],ADNI_UCD_WMH_04_30_19.csv
+297,UCL - Boundary Shift Integral Summaries Dictionary [ADNI1],BSI_DICT.csv
+298,UCL - Boundary Shift Integral Summaries Methods (PDF),ADNI_Methods_BSI_2012_03_12.pdf
+299,UCL - Boundary Shift Integral Summaries [ADNI1],BSI.csv
+300,"UCLA - DTI ROI Summary Measures Dictionary [ADNI1,GO,2]",ADNI_DTIROI_DICT_10_03_19.csv
+301,UCLA - DTI ROI Summary Measures Methods (PDF),ADNI_LONI_DTI_Methods1Oct2012.pdf
+302,"UCLA - DTI ROI Summary Measures [ADNI1,GO,2]",ADNI_DTIROI_10_03_19.csv
+303,UCSD - Derived Volumes Dictionary [ADNI1],UCSDVOL_DICT.csv
+304,UCSD - Derived Volumes [ADNI1],UCSDVOL.csv
+305,UCSF - ADNI-1 3T Cross-Sectional FreeSurfer (5.1) Dictionary [ADNI1],UCSFFSX51_ADNI1_3T_DICT_11_01_13.csv
+306,UCSF - ADNI-1 3T Cross-Sectional FreeSurfer (5.1) [ADNI1],UCSFFSX51_ADNI1_3T_02_01_16.csv
+307,"UCSF - ASL Perfusion CBF by FreeSurfer ROI Dictionary [ADNIGO,2]",UCSFASLFS_DICT_07_31_13.csv
+308,"UCSF - ASL Perfusion CBF by FreeSurfer ROI [ADNIGO,2]",UCSFASLFS_11_02_15_V2.csv
+309,UCSF - ASL Perfusion Processing Methods (PDF),ADNI_UCSF_ASL_Perfusion_Processing_Methods_20121204.pdf
+310,"UCSF - Cross-Sectional FreeSurfer (5.1) Dictionary [ADNI1,GO,2]",UCSFFSX51_DICT_08_01_14.csv
+311,"UCSF - Cross-Sectional FreeSurfer (5.1) [ADNI1,GO,2]",UCSFFSX51_11_08_19.csv
+312,UCSF - Cross-Sectional FreeSurfer (6.0) Dictionary [ADNI3],UCSFFSX6_DICT_08_27_19.csv
+313,UCSF - Cross-Sectional FreeSurfer (FreeSurfer Version 4.3) Dictionary [ADNI1],UCSFFSX_DICT_08_01_14.csv
+314,"UCSF - Cross-Sectional FreeSurfer (FreeSurfer Version 4.3) [ADNI1,GO,2]",UCSFFSX_11_02_15.csv
+315,UCSF - FreeSurfer Methods (PDF),UCSF_FreeSurfer_Methods_and_QC_OFFICIAL_20140131.pdf
+316,"UCSF - Longitudinal FreeSurfer (5.1) - All Available Base Image Dictionary [ADNIGO,2]",UCSFFSL51ALL_DICT_05_04_16.csv
+317,"UCSF - Longitudinal FreeSurfer (5.1) - All Available Base Image [ADNIGO,2]",UCSFFSL51ALL_08_01_16.csv
+318,"UCSF - Longitudinal FreeSurfer (5.1) Final Dictionary [ADNIGO,2]",UCSFFSX51FINAL_DICT_11_08_19.csv
+319,"UCSF - Longitudinal FreeSurfer (5.1) Final [ADNIGO,2]",UCSFFSX51FINAL_11_08_19.csv
+320,UCSF - Longitudinal FreeSurfer (FreeSurfer Version 4.4) Dictionary [ADNI1],UCSFFSL_DICT_11_01_13.csv
+321,UCSF - Longitudinal FreeSurfer (FreeSurfer Version 4.4) [ADNI1],UCSFFSL_02_01_16.csv
+322,"UCSF - Longitudinal FreeSurfer (FreeSurfer Version 5.1) - Year 1 Base Image Dictionary [ADNIGO,2]",UCSFFSL51Y1_DICT.csv
+323,"UCSF - Longitudinal FreeSurfer (FreeSurfer Version 5.1) - Year 1 Base Image [ADNIGO,2]",UCSFFSL51Y1_08_01_16.csv
+324,UCSF - Regional Atrophy Rates Dictionary [ADNI1],UCSFATRPHY_DICT.csv
+325,UCSF - Regional Atrophy Rates [ADNI1],UCSFATRPHY.csv
+326,UCSF - SNT Hippocampal Volumes Dictionary [ADNI1],UCSFSNTVOL_DICT.csv
+327,UCSF - SNT Hippocampal Volumes Methods (PDF),ADNI_UCSF_SNT_Hippocampal_Volumes_Methods.pdf
+328,UCSF - SNT Hippocampal Volumes [ADNI1],UCSFSNTVOL.csv
+329,"UCSF Cross-Sectional FreeSurfer (6.0)[ADNI1,GO,2,3]",UCSFFSX6_02_05_20.csv
+330,University of Pennsylvania Section of Biomedical Image Analysis (SBIA) Volumes Dictionary [ADNI1],UPENNSBIAROI_DICT_04_25_16.csv
+331,UPENN - Hierarchical Parcellation of MRI Using Multi-atlas Labeling Methods Dictionary [ADNI1],UPENNROI_MARS_DICT_06_01_16.csv
+332,UPENN - Hierarchical Parcellation of MRI Using Multi-atlas Labeling Methods PDF [ADNI1],ADNI_UPENN_Hierarchical_Parcellation_Using_Multi-atlas_ROI_Methods_April2016.pdf
+333,UPENN - Hierarchical Parcellation of MRI Using Multi-atlas Labeling Methods [ADNI1],UPENNROI_MARS_06_01_16.csv
+334,UPENN - Spatial Pattern of Abnormalities for Recognition of Early AD (SPARE-AD) Dictionary [ADNI1],UPENNSPARE_AD_DICT_07_27_16.csv
+335,UPENN - Spatial Pattern of Abnormalities for Recognition of Early AD (SPARE-AD) Methods (PDF),ADNI_SPARE_AD_Methods_20160822.pdf
+336,UPENN - Spatial Pattern of Abnormalities for Recognition of Early AD (SPARE-AD) [ADNI1],UPENNSPARE_AD_07_27_16.csv
+337,UPENN - Spatial Pattern of Abnormalities for Recognition of Early MCI (SPARE-MCI) Methods (PDF),ADNI1_SPARE-MCI_Methods_20160822.pdf
+338,UPENN - Spatial Pattern of Abnormalities for Recognition of Early MCI to AD conversion (SPARE-MCI) Dictionary [ADNI1],UPENNSPARE_MCI_DICT_08_12_16.csv
+339,UPENN - Spatial Pattern of Abnormalities for Recognition of Early MCI to AD conversion (SPARE-MCI) [ADNI1],UPENNSPARE_MCI_08_12_16.csv
+340,USC - Tensor-Based Morphometry Methods (PDF),ADNI_LONI_TBM_Methods_Oct2012.pdf
+341,"USC - Tensor-based Morphometry Versions 2.0 and 2.1 Dictionary [ADNI1,GO,2]",TBM_DICT_09_26_14.csv
+342,"USC - Tensor-based Morphometry Versions 2.0 and 2.1 [ADNI1,GO,2]",TBM_08_20_15.csv
+343,"Listing of Changed LONI Study IDs [ADNI1,GO,2]",Changed_Study_ID_Listing.csv
+344,Mayo (Jack Lab) - ADNI 3 MRI QC,MAYOADIRL_MRI_QUALITY_ADNI3.csv
+345,Mayo (Jack Lab) - ADNI 3 MRI QC Dictionary,MAYOADIRL_MRI_QUALITY_ADNI3_DICT.csv
+346,"Mayo (Jack Lab) - ADNI GO/2 MRI QC Dictionary [ADNIGO,2]",MAYOADIRL_MRI_IMAGEQC_DICT_07_31_14.csv
+347,Mayo (Jack Lab) - ADNI GO/2 MRI QC Methods (PDF),ADNI_Methods_Mayo_MRI_QC.pdf
+348,"Mayo (Jack Lab) - ADNI GO/2 MRI QC [ADNIGO,2]",MAYOADIRL_MRI_IMAGEQC_12_08_15.csv
+349,"Mayo (Jack Lab) - ADNI MRI MCH Dictionary [ADNI1,GO,2,3]",MAYOADIRL_MRI_MCH_DICT_08_15_19.csv
+350,Mayo (Jack Lab) - ADNI MRI MCH Methods (PDF),ADNI_Methods_MCH_20121213.pdf
+351,"Mayo (Jack Lab) - ADNI MRI MCH [ADNIGO,2,3]",MAYOADIRL_MRI_MCH_08_14_20.csv
+352,"MRI MPRAGE Process [ADNI1,GO,2]",MRIMPPRO.csv
+353,"MRI MPRAGE Ranking [ADNI1,GO,2]",MRIMPRANK.csv
+354,"MRI Quality [ADNI1,GO,2]",MRIQUALITY.csv
+355,"UCSF - ASL Perfusion Raw QC Dictionary [ADNIGO,2]",UCSFASLQC_DICT.csv
+356,UCSF - ASL Perfusion Raw QC Guide (PDF),ADNI_UCSF_ASL_Perfsion_Raw_QC_20121107.pdf
+357,"UCSF - ASL Perfusion Raw QC [ADNIGO,2]",UCSFASLQC.csv
+358,Amyloid PET Scan Information [ADNI3],AMYMETA.csv
+359,"AV-45 PET Scan Information [ADNIGO,2]",AV45META.csv
+360,FDG PET Scan Information [ADNI1],PETMETA_ADNI1.csv
+361,FDG PET Scan Information [ADNI3],PETMETA3.csv
+362,"FDG PET Scan Information [ADNIGO,2]",PETMETA_ADNIGO2.csv
+363,"PET Metadata Listing [ADNI1,GO,2]",PET_META_LIST.csv
+364,PET Scanner Smoothing Table,ADNI_PET_ScannerSmoothingTable.xls
+365,PIB Scan Information [ADNI1],PIBMETA.csv
+366,Tau AV-1451 PET Eligibility [ADNI2],ADNI2_OTELGTAU.csv
+367,Tau AV-1451 PET Scan Information [ADNI2],TAUMETA.csv
+368,Tau AV-1451 PET Scan Information [ADNI3],TAUMETA3.csv
+369,BAI - NMRC Summaries Dictionary [ADNI1],BAINMRC_DICT.csv
+370,BAI - NMRC Summaries [ADNI1],BAINMRC.csv
+371,BAI - PET NMRC Amyloid Convergence Index Methods (PDF),ADNI_Methods_ACI_BAI1_20130814.pdf
+372,BAI - PET NMRC Hypometabolic Convergence Index Methods (PDF),ADNI_Methods_HCI_BAI4_20130814.pdf
+373,"BAI - PET NMRC Summaries Dictionary [ADNI1,GO,2,3]",BAIPETNMRC_DICT_11_14_17.csv
+374,BAI - PET NMRC Summaries Methods (PDF),ADNI_BAI_PET_Analysis.pdf
+375,"BAI - PET NMRC AV45 Summaries Dictionary [ADNI1,GO,2,3]",BAIPETNMRCAV45_DICT_09_16_19.csv
+376,BAI - PET NMRC AV45 Summaries Methods (PDF),ADNI_BAI-PET-NMRC-Florbetapir-Processing-Methods_20190917.pdf
+377,"BAI - PET NMRC AV45 Summaries [ADNI1,GO,2,3]",BAIPETNMRCAV45_11_22_19.csv
+378,"BAI - PET NMRC FDG Summaries Dictionary [ADNI1,GO,2,3]",BAIPETNMRCFDG_DICT_11_22_19.csv
+379,BAI - PET NMRC FDG Summaries Methods (PDF),ADNI_BAI-PET-NMRC-FDG-Processing-Methods_20191016.pdf
+380,"BAI - PET NMRC FDG Summaries [ADNI1,GO,2,3]",BAIPETNMRCFDG_11_22_19.csv
+381,"BAI - PET NMRC Flortaucipir (F-AV1451) Summaries Dictionary [ADNI2,3]",BAIPETNMRCFTP_DICT_03_03_20.csv
+382,BAI - PET NMRC Flortaucipir (F-AV1451) Summaries Methods (PDF),ADNI_BAI-PET-NMRC-Flortaucipir-Processing-Methods_20190917.pdf
+383,"BAI - PET NMRC Flortaucipir (F-AV1451) Summaries [ADNI2,3]",BAIPETNMRCFTP_03_03_20.csv
+384,"BAI - PET NMRC Flortaucipir (F-AV1451) Summaries [ADNI2,3] Methods (PDF)",ADNI_BAI-PET-NMRC-Flortaucipir-Processing-Methods_20200303.pdf
+385,BAI - PET NMRC Summaries Analysis Methods (PDF),ADNI_Methods_Banner_SUVRwithCerebralWMRefROI_forLongitudinalFlorbetapirPET_20150713.pdf
+386,"BAI - PET NMRC Summaries [ADNI1,GO,2,3]",BAIPETNMRC_04_12_18.csv
+387,Cross-Validation Dictionary [ADNI1],CROSSVAL_DICT.csv
+388,Cross-Validation [ADNI1],CROSSVAL.csv
+389,Instructions for converting ADNI processing results to Centiloids (PDF),ADNI_Centoloid_Methods_Instruction_20181113.pdf
+390,NYU FDG-PET Hippocampus (pons normalized) Dictionary [ADNI1],NYUFDGHIP_DICT.csv
+391,NYU FDG-PET Hippocampus (pons normalized) Methods (PDF),ADNI_NYU_FDG_Hippcamal_Measures_21020611.pdf
+392,NYU FDG-PET Hippocampus (pons normalized) [ADNI1],NYUFDGHIP.csv
+393,"sPAP Avid ADNI Florbetapir Summaries Dictionary [ADNIGO,2]",SPAP_AVID_FLORBETAPIR_DICT.csv
+394,sPAP Avid ADNI Florbetapir Summaries Methods (PDF),ADNI_sPAP_Avid_Florbetapir_Analysis_Methods.pdf
+395,"sPAP Avid ADNI Florbetapir Summaries [ADNIGO,2]",SPAP_AVID_FLORBETAPIR.csv
+396,"UC Berkeley - AV1451 Analysis Dictionary [ADNI1,GO,2,3]",UCBERKELEYAV1451_DICT_04_12_19.csv
+397,"UC Berkeley - AV1451 Analysis Methods [ADNI2,3] (PDF)",UCBERKELEY_AV1451_Methods_Aug2018.pdf
+398,"UC Berkeley - AV1451 Analysis [ADNI2,3]",UCBERKELEYAV1451_05_12_20.csv
+399,"UC Berkeley - AV1451 Partial Volume Corrected Analysis [ADNI2,3]",UCBERKELEYAV1451_PVC_05_12_20.csv
+400,"UC Berkeley - AV1451 PVC analysis Dictionary [ADNI1,GO,2,3]",UCBERKELEYAV1451_PVC_DICT_10_15_18.csv
+401,"UC Berkeley - AV45 Analysis Dictionary [ADNI1,GO,2,3]",UCBERKELEYAV45_DICT_08_27_19.csv
+402,UC Berkeley - AV45 Analysis Methods (PDF),ADNI_UCBERKELEY_AV45_Methods_12.03.15.pdf
+403,"UC Berkeley - AV45 Analysis [ADNI1,GO,2,3]",UCBERKELEYAV45_05_12_20.csv
+404,UC Berkeley - AV45 Correction Explanation (PDF),ADNI_florbetapir_dataset_correction_20140731.pdf
+405,"UC Berkeley - FBB Analysis Dictionary[ADNI1,2,3]",UCBERKELEYFBB_DICT_04_12_19.csv
+406,UC Berkeley - FBB Analysis Methods (PDF),UCBerkeley_FBB_Methods_04.11.19.pdf
+407,"UC Berkeley - FBB Analysis [ADNI2,3]",UCBERKELEYFBB_05_12_20.csv
+408,"UC Berkeley - FDG Analysis Dictionary [ADNI1,GO,2,3]",UCBERKELEYFDG__DICT_03_11_13.csv
+409,"UC Berkeley - FDG Analysis [ADNI1,GO,2,3]",UCBERKELEYFDG_05_28_20.csv
+410,UC Berkeley - FDG Methods (PDF),ADNI_UC_Berkeley_FDG_Methods_20121022.pdf
+411,UPitt - PIB PET Analysis Dictionary [ADNI1],PIBPETSUVR_DICT.csv
+412,UPitt - PIB PET Analysis [ADNI1],PIBPETSUVR.csv
+413,UU - PET AD Subjects Cerebral Metabolic Pattern of Glucose Uptake Consistent with Frontotemporal Dementia in Baseline FDG-PET (PDF),UU_CACIR_FTDlike_AD_Subjects_20111221.pdf
+414,"UU - PET Analysis (Norman Foster) Dictionary [ADNI1,GO,2]",UUCACIR_DICT_03_17_15.csv
+415,"UU - PET Analysis (Norman Foster) Methods (PDF) [ADNI1,GO,2]",ADNI_UUCACIR_PET_Numeric_Summaries_Methods_20160708.pdf
+416,"UU - PET Analysis (Norman Foster) [ADNI1,GO,2]",UUCACIR_07_18_16.csv
+417,UU - PET Analysis Description (PDF),ADNI_UUtah_PET_Analysis.pdf
+418,UU - PET Analysis Methods Aug2015,ADNI_UUtah_PET_Numeric_Summaries_Methods_08_10_15.pdf
+419,Amyloid PET QC [ADNI3],AMYQC.csv
+420,"AV-45 PET QC Tracking [ADNIGO,2]",AV45QC.csv
+421,FDG PET QC [ADNI3],PETC3.csv
+422,Florbetapir PET Templates for Control and AD Subjects,AV45_Niftii_Templates.zip
+423,"PET QC Tracking [ADNI1,GO,2]",PETQC.csv
+424,PIB QC Tracking [ADNI1],PIBQC.csv
+425,Tau AV-1451 PET QC [ADNI2],TAUQC.csv
+426,Tau AV-1451 PET QC [ADNI3],TAUQC3.csv
+427,Adverse Events Log [ADNI3],ADVERSE.csv
+428,"Adverse Events/ Hospitalizations [ADNI1,GO,2]",RECADV.csv
+429,"AV-45 24-48 Hour Follow-Up [ADNIGO,2]",AV45FOLLOW.csv
+430,"Concurrent Medications Log [ADNI1,GO,2,3]",RECCMEDS.csv
+431,"Key Background Medications [ADNIGO,2,3]",BACKMEDS.csv
+432,"Documentation of Baseline Symptoms Log [ADNI1,GO,2]",RECBLLOG.csv
+433,Initial Health Assessment [ADNI3],INITHEALTH.csv
+434,"Medical History [ADNI1,GO,2]",MEDHIST.csv
+435,"Recent Medical History Details Log [ADNI1,GO,2]",RECMHIST.csv
+436,"AV-45 Pre and Post Injection Vitals [ADNIGO,2]",AV45VITALS.csv
+437,"Baseline Symptoms Checklist [ADNI1,GO,2]",BLSCHECK.csv
+438,ECG [ADNI2],ADNI2_ECG.csv
+439,"Neurological Exam [ADNI1,GO,2,3]",NEUROEXM.csv
+440,"Physical Exam [ADNI1,GO,2,3]",PHYSICAL.csv
+441,"Vital Signs [ADNI1,GO,2,3]",VITALS.csv
+442,"NACC Neuropathology Data Form Dictionary [ADNI1,GO,2]",NEUROPATH_04_12_18_DICT.csv
+443,"NACC Neuropathology Data Form [ADNI1,GO,2]",NEUROPATH_04_12_18.csv
+444,NACC Neuropathology Data Methods (PDF),ADNI_Methods_Neuropathology_Core_03-06-2018.pdf
+445,ADNI 1.5T MRI Standardized Lists,ADNI_1.5T_MRI_Standardized_Lists.zip
+446,ADNI 3T MRI Standardized Lists,ADNI_3T_MRI_Standardized_Lists.zip
+447,"Data Dictionary [ADNI1,GO,2,3]",DATADIC.csv
+448,Key ADNI tables merged into one table,ADNIMERGE.csv
+449,Key ADNI tables merged into one table - Dictionary,ADNIMERGE_DICT.csv
+450,Merged ADNI 1/GO/2 Methods (PDF),ADNIMERGE_Methods_21030429.pdf
+451,Merged ADNI 1/GO/2 Packages for R,ADNIMERGE_0.0.1.tar.gz
+452,Merged ADNI 1/GO/2 Packages for SAS,ADNIMERGE_SAS.zip
+453,Merged ADNI 1/GO/2 Packages for SPSS,ADNIMERGE_SPSS.zip
+454,Merged ADNI 1/GO/2 Packages for Stata,ADNIMERGE_Stata.zip
+455,"Return of Research Results [ADNI2,3]",RORR.csv
+456,ADNI Methods Template (DOCX),ADNI_Methods_Template.docx
+457,Data Submission Metadata Standard (PDF),ADNI_Minimum_Metadata.pdf
+458,ADNI 1 Case Report Forms (PDF),ADNI1_CRFs_20180724.pdf
+459,ADNI Available Data Matrix(PDF),Adni_Data_Matrix_20140527.pdf
+460,ADNI GO Case Report Forms (PDF),ADNI_GO_CRFs_20140606.pdf
+461,Family History - Parents [ADNI3],FAMXHPAR.csv
+462,Family History - Sibling Log [ADNI3],FAMXHSIB.csv
+463,"Family History Questionnaire Subtable [ADNI1,GO,2]",RECFHQ.csv
+464,"Family History Questionnaire [ADNI1,GO,2]",FHQ.csv
+465,"Subject Demographics [ADNI1,GO,2,3]",PTDEMOG.csv
+466,AD Challenge Training Data: Clinical (Updated),AD_Challenge_Training_Data_Clinical_Updated_7.22.2014.zip
+467,AD Challenge Training Data: Imaging,AD1ChallengeImagingFiles.tgz
+468,AD Challenge Training Data: Imaging Vertices,ad1challenge_adni_vertices_20140715.tar.gz
+469,QT-PAD Challenge,ADNI_QT-PAD.zip
+470,Tadpole Challenge Data,tadpole_challenge_201911210.zip
+471,"ADMC Phenomenome Phosphatidylethanolamine, Plasmenylethanolamine Flow Injection LC-MS/MS Peak Heights",ADMCPDIPEPEAKHEIGHTS.csv
+472,"ADMC Phenomenome Phosphatidylethanolamine, Plasmenylethanolamine Flow Injection LC-MS/MS Peak Heights Dictionary",ADMCPDIPEPEAKHEIGHTS_DICT.csv
+473,"Aliquot Count in the LDMS Database Dictionary [ADNI1,GO,2]",ALIQUOT_LIST_DICT_01_14_16.csv
+474,Aliquot Count in the LDMS Database Dictionary [ADNI2],ALIQUOT_LIST_DICT_11_01_13.csv
+475,"Aliquot Count in the LDMS Database [ADNI1,GO,2]",ALIQUOT_LIST_10_21_16.csv
+476,Aliquot Count in the LDMS Database [ADNI2],ALIQUOT_LIST_01_14_16.csv
+477,"ASHS volume data dictionary [ADNI2,3]",ADNI_PICSLASHS_DICT_05_16_19.csv
+478,"ASHS volume data [ADNI2,3]",ADNI_PICSLASHS_05_16_19.csv
+479,BAI - MRI NMRC Summaries Dictionary [ADNI1],BAIMRINMRC_DICT.csv
+480,BAI - MRI NMRC Summaries [ADNI1],BAIMRINMRC.csv
+481,"BAI - PET NMRC Summaries Dictionary [ADNI1,GO,2]",BAIPETNMRC_DICT_09_04_14.csv
+482,"BAI - PET NMRC Summaries Dictionary[ADNI1,GO,2]",BAIPETNMRC_DICT_09_12_16.csv
+483,"BAI - PET NMRC Summaries [ADNI1,GO,2]",BAIPETNMRC_09_12_16.csv
+484,"BAI - PET NMRC Flortaucipir (F-AV1451) Summaries Dictionary [ADNI1,GO,2,3]",BAIPETNMRCFTP_DICT_09_20_19.csv
+485,"BAI - PET NMRC Flortaucipir (F-AV1451) Summaries [ADNI1,GO,2,3]",BAIPETNMRCFTP_09_20_19.csv
+486,Conversions Confirmed by Conversion Committee Dictionary [ADNI1],CONVERSIONS_DICT.csv
+487,Conversions Confirmed by Conversion Committee [ADNI1],CONVERSIONS.csv
+488,"Fox Lab - BSI Measures Dictionary [ADNI1,GO,2]",FOXLABBSI_DICT_11_01_13.csv
+489,"Fox Lab - BSI Measures [ADNI1,GO,2]",FOXLABBSI_10_31_16.csv
+490,"Mayo (Jack Lab) - ADNI MRI MCH Dictionary [ADNIGO,2]",MAYOADIRL_MRI_MCH_DICT_05_02_14.csv
+491,"Mayo (Jack Lab) - ADNI MRI MCH [ADNI1,GO,2,3]",MAYOADIRL_MRI_MCH_08_15_19.csv
+492,"Mayo (Jack Lab) - ADNI MRI MCH [ADNIGO,2]",MAYOADIRL_MRI_MCH_11_01_13.csv
+493,"Mayo (Jack Lab) - Mayo (Jack Lab) - ADNI MRI MCH Dictionary [ADNI1,GO,2,3]",MAYOADIRL_MRI_MCH_DICT_10_16_18.csv
+494,"Mayo (Jack Lab) - Mayo (Jack Lab) - ADNI MRI MCH [ADNI1,GO,2,3]",MAYOADIRL_MRI_MCH_02_11_19.csv
+495,"Mayo (Jack Lab) - Network Failure Quotient for rs-fMRI[ADNIGO,2,3]",MAYOADIRL_MRI_FMRI_NFQ_05_04_20.csv
+496,"Mayo (Jack Lab) - TBM-SyN Based Scores Dictionary [ADNIGO,2]",MAYOADIRL_MRI_TBMSYN_DICT_05_02_14.csv
+497,"Mayo (Jack Lab) - TBM-SyN Based Scores [ADNIGO,2]",MAYOADIRL_MRI_TBMSYN_11_07_17.csv
+498,"UC Berkeley - AV1451 Analysis Dictionary [ADNI2,3]",UCBERKELEYAV1451_DICT_09_05_18.csv
+499,UC Berkeley - AV1451 Analysis Dictionary [ADNI2],UCBERKELEYAV1451_DICT_10_17_16.csv
+500,UC Berkeley - AV1451 Analysis Methods (PDF),ADNI_UCBERKELEY_AV1451_Methods_20160302.pdf
+501,"UC Berkeley - AV1451 analysis [ADNI1,2]",UCBERKELEYAV1451_06_15_16.csv
+502,"UC Berkeley - AV1451 analysis [ADNI1,GO,2,3]",UCBERKELEYAV1451_02_04_20.csv
+503,"UC Berkeley - AV1451 Analysis [ADNI1,GO,2,3]",UCBERKELEYAV1451_08_27_19.csv
+504,"UC Berkeley - AV1451 analysis [ADNI2,3]",UCBERKELEYAV1451_09_05_18.csv
+505,UC Berkeley - AV1451 Analysis [ADNI2],UCBERKELEYAV1451_10_17_16.csv
+506,"UC Berkeley - AV1451 Partial Volume Corrected Analysis [ADNI1,GO,2,3]",UCBERKELEYAV1451_PVC_02_04_20.csv
+507,"UC Berkeley - AV1451 PVC analysis [ADNI1,GO,2,3]",UCBERKELEYAV1451_PVC_10_15_18.csv
+508,"UC Berkeley - AV45 Analysis Dictionary [ADNIGO,2]",UCBERKELEYAV45_DICT_06_15_16.csv
+509,"UC Berkeley - AV45 analysis Dictionary [ADNIGO,2]",UCBERKELEYAV45_DICT_03_13_14.csv
+510,"UC Berkeley - AV45 Analysis Dictionary[ADNI1,GO,2,3]",UCBERKELEYAV45_DICT_04_12_19.csv
+511,"UC Berkeley - AV45 Analysis [ADNIGO,2]",UCBERKELEYAV45_05_16_13.csv
+512,"UC Berkeley - AV45 analysis [ADNIGO,2]",UCBERKELEYAV45_03_13_14a.csv
+513,"UC Berkeley - AV45 Analysis[ADNI1,GO,2,3]",UCBERKELEYAV45_04_12_19.csv
+514,UC Berkeley - AV45 Methods (PDF),ADNI_AV45_Methods_JagustLab_04-29-14.pdf
+515,UC Berkeley - AV45 Methods Rev (PDF),ADNI_AV45_Methods_JagustLab_01.20.15.pdf
+516,UC Berkeley - FBB Analysis Dictionary [ADNI3],UCBERKELEYFBB_DICT.csv
+517,"UC Berkeley - FBB Analysis [ADNI1,2,3]",UCBERKELEYFBB_08_27_19.csv
+518,UC Berkeley - FBB Analysis [ADNI3],UCBERKELEYFBB.csv
+519,"UC Berkeley - FBB analysis[ADNI1,2,3]",UCBERKELEYFBB_20180808.csv
+520,"UC Berkeley - FBB Analysis[ADNI1,2,3]",UCBERKELEYFBB_04_12_19.csv
+521,"UC Berkeley - FBB analysis[ADNI1,GO,2,3]",UCBERKELEYFBB_02_04_20.csv
+522,"UC Berkeley - FDG Analysis [ADNI1,GO,2]",UCBERKELEYFDG_03_13_14.csv
+523,"UC Berkeley - Partial Volume AV1451 Analysis Dictionary [ADNI2,3]",UCBERKELEYAV1451_PVC_DICT_09_05_18.csv
+524,UC Berkeley - Partial Volume AV1451 Analysis Dictionary [ADNI2],UCBERKELEYAV1451_PVC_DICT.csv
+525,"UC Berkeley - Partial Volume AV1451 Analysis [ADNI2,3]",UCBERKELEYAV1451_PVC_09_05_18.csv
+526,UC Berkeley - Partial Volume AV1451 Analysis [ADNI2],UCBERKELEYAV1451_PVC.csv
+527,"UC Berkeley - Partial Volume Corrected AV1451 Analyses [ADNI1,GO,2,3]",UCBERKELEYAV1451_PVC_11_14_17.csv
+528,"UC Berkeley - Partial Volume Corrected AV1451 Analysis [ADNI1,GO,2,3]",UCBERKELEYAV1451_PVC_08_27_19.csv
+529,UCD - White Matter Hyperintensity Volumes Dictionary [ADNI3],ADNI_UCD_WMH_DICT_05_07_19.csv
+530,UCD - White Matter Hyperintensity Volumes [ADNI3],ADNI_UCD_WMH_05_07_19.csv
+531,UCD- White Matter Hyperintensity Volumes [ADNI2],UCD_ADNI2_WMH_06_24_14.csv
+532,"UCLA - DTI ROI Summary Measures Dictionary [ADNIGO,2]",DTIROI_DICT_04_30_14.csv
+533,"UCLA - DTI ROI summary measures [ADNI1,GO,2]",ADNI_DTIROI_04_30_19.csv
+534,"UCLA - DTI ROI Summary Measures [ADNIGO,2]",DTIROI_04_30_14.csv
+535,UCSF - Cross-Sectional FreeSurfer (5.1),UCSFFSX51_10_31_13.csv
+536,UCSF - Cross-Sectional FreeSurfer (5.1) Dictionary,UCSFFSX51_DICT_10_31_13.csv
+537,UCSF - Cross-Sectional FreeSurfer (6.0) [ADNI3],UCSFFSX6_11_08_19.csv
+538,UCSF - Cross-Sectional FreeSurfer (FreeSurfer Version 4.3) [ADNI1],UCSFFSX_11_01_13.csv
+539,University of Pennsylvania Section of Biomedical Image Analysis (SBIA) Volumes [ADNI1],UPENNSBIAROI.csv
+540,UPENN - ADNI GO/2 CSF Report (PDF),ADNI_GO+2_CSF_Report_20120604.pdf
+541,UPENN - ADNI GO/2 CSF Report for Third Batch of Analysis (PDF),ADNI_Methods_UPENN-Third_Batch_Analysis_of_CSF_Biomarkers_20140611.pdf
+542,UPENN - Biomarker Data [ADNI1],UPENNBIOMK.csv
+543,UPENN - CSF Biomarkers Corrected Anchoring of 2012 Dataset (PDF),ADNI_Methods_Shaw_Trojanowski_Corrected_Anchoring_of_2012_dataset_10_31_13.pdf
+544,UPENN - CSF Biomarkers Dictionary [ADNI GO/2],UPENNBIOMK5_DICT_10_31_13.csv
+545,UPENN - CSF Biomarkers Methods (PDF),ADNI_Methods_UPENN_Biomarker_20120710.pdf
+546,UPENN - CSF Biomarkers [ADNI GO/2],UPENNBIOMK5_10_31_13.csv
+547,UPENN - Fourth Batch Analyses of CSF Biomarkers Dictionary [ADNI GO/2],UPENNBIOMK8_DICT.csv
+548,UPENN - Fourth Batch Analyses of CSF Biomarkers Methods [ADNI GO/2],ADNI_Methods_Template_Shaw_Trojanowski_for_2015_ADNI2_20150410.pdf
+549,UPENN - Fourth Batch Analyses of CSF Biomarkers [ADNI GO/2],UPENNBIOMK8.csv
+550,UPENN - Hierarchical Parcellation of MRI Using Multi-atlas Labeling Methods (PDF),ADNI_Multi-atlas_ROI_Methods_20140502.pdf
+551,UPENN - Longitudinal Biomarker Data (3 yr) Dictionary [ADNI1],UPENNBIOMK3_DICT.csv
+552,UPENN - Longitudinal Biomarker Data (3 yr) [ADNI1],UPENNBIOMK3.csv
+553,UPENN - Longitudinal Biomarker Data (4 yr) Dictionary [ADNI1],UPENNBIOMK4_DICT_09_06_12.csv
+554,UPENN - Longitudinal Biomarker Data (4 yr) [ADNI1],UPENNBIOMK4_09_06_12.csv
+555,UPENN - Longitudinal Biomarker Data Dictionary [ADNI1],UPENNBIOMK2_DICT.csv
+556,UPENN - Longitudinal Biomarker Data [ADNI1],UPENNBIOMK2.csv
+557,"UPENN - Second Batch Analysis of CSF Biomarkers Dictionary [ADNI1,GO,2]",UPENNBIOMK6_DICT.csv
+558,UPENN - Second Batch Analysis of CSF Biomarkers Methods (PDF),ADNI2_Shaw_Trojanowski_2nd_Batch_Analysis_of_CSF_Biomarkers_07_02_2013.pdf
+559,"UPENN - Second Batch Analysis of CSF Biomarkers [ADNI1,GO,2]",UPENNBIOMK6_07_02_13.csv
+560,UPENN - Spatial Pattern of Abnormalities for Recognition of Early MCI to AD conversion (SPARE-MCI) Methods (PDF),ADNI_SPARE_MCI_Methods_20130429.pdf
+561,UPENN - Third Batch Analysis of CSF Biomarkers Dictionary [ADNI GO/2],UPENNBIOMK7_DICT.csv
+562,UPENN - Third Batch Analysis of CSF Biomarkers [ADNI GO/2],UPENNBIOMK7.csv
+563,UU - PET Analysis Methods (PDF),ADNI_UUtah_PET_Numeric_Summaries_Methods_20130329.pdf
+564,"UW - Neuropsych Summary Scores Dictionary [ADNI1,GO,2]",UWNPSYCHSUM_DICT_12_04_13.csv
+565,UW - Neuropsych Summary Scores Methods (PDF),ADNI_Methods_UWNPSYCHSUM.pdf
+566,UW - Neuropsych Summary Scores Methods 12 Jan 2016 (PDF),ADNI_Methods_UWNPSYCHSUM_20160112.pdf
+567,"UW - Neuropsych Summary Scores [ADNI1,GO,2]",UWNPSYCHSUM_06_09_14.csv
